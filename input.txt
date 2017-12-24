@@ -1,0 +1,21 @@
+type = "stock"
+symbol = "TD"
+name = "Toronto Dominion Bank"
+quantity = "100"
+price = "24.99"
+bookValue = "2508.99"
+
+type = "mutualfund"
+symbol = "TYL"
+name = "Tyler Technologies"
+quantity = "223"
+price = "34.89"
+bookValue = "7780.47"
+
+type = "stock"
+symbol = "BCN"
+name = "Bitcoin"
+quantity = "100"
+price = "12100.0"
+bookValue = "1210009.99"
+
